@@ -3,8 +3,6 @@
 
 using namespace std;
 
-// TODO: Implement the models differently as we as the graph
-
 // TODO: Make a function to initialise the Bhubhneswar map in an object
 
 int main()
@@ -31,8 +29,8 @@ int main()
 
     Graph Bhubaneswar = initializer();
     // Find the shortest distance between two places
-    int shortestDistance = Bhubaneswar.dijkstra(0, 1); // Find distance between Place A (0) and Place B (1)
-    std::cout << "Shortest distance between Place A and Place B: " << shortestDistance << std::endl;
+    float shortestDistance = Bhubaneswar.dijkstra(7, 30); // Find distance between Place A (0) and Place B (1)
+    std::cout << "Shortest distance between Place A and Place B(in Km): " << shortestDistance << std::endl;
 
     return 0;
 }

@@ -96,7 +96,7 @@ int main()
                        {0, 0, 2, 0, 0, 0, 6, 7, 0}};
 
     // Function call
-    dijkstra(graph, 0);
+    dijkstra(graph, 8);
 
     auto stop = high_resolution_clock::now();                  // Stop time
     auto duration = duration_cast<microseconds>(stop - start); // Duration

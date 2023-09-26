@@ -42,7 +42,7 @@ public:
             for (const Edge &edge : adjList[u])
             {
                 int v = edge.getTo();
-                int w = edge.getDistance();
+                float w = edge.getDistance();
 
                 // Relax edge (u, v)
                 if (distance[u] != INT_MAX && distance[u] + w < distance[v])

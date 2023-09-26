@@ -50,6 +50,154 @@ Graph initializer()
 
     //*
     Bhubaneswar.addEdge(Edge(0, 1, 4.6));
+    Bhubaneswar.addEdge(Edge(1, 0, 4.6));
+
+    Bhubaneswar.addEdge(Edge(0, 4, 2.2));
+    Bhubaneswar.addEdge(Edge(4, 0, 2.2));
+
+    Bhubaneswar.addEdge(Edge(0, 17, 1.1));
+    Bhubaneswar.addEdge(Edge(17, 0, 1.1));
+
+    Bhubaneswar.addEdge(Edge(0, 30, 4.4));
+    Bhubaneswar.addEdge(Edge(30, 0, 4.4));
+
+    Bhubaneswar.addEdge(Edge(0, 40, 2.1));
+    Bhubaneswar.addEdge(Edge(40, 0, 2.1));
+
+    Bhubaneswar.addEdge(Edge(1, 6, 2.2));
+    Bhubaneswar.addEdge(Edge(6, 1, 2.2));
+
+    Bhubaneswar.addEdge(Edge(1, 11, 4.9));
+    Bhubaneswar.addEdge(Edge(11, 1, 4.9));
+
+    Bhubaneswar.addEdge(Edge(1, 21, 5));
+    Bhubaneswar.addEdge(Edge(21, 1, 5));
+
+    Bhubaneswar.addEdge(Edge(1, 31, 2.8));
+    Bhubaneswar.addEdge(Edge(31, 1, 2.8));
+
+    Bhubaneswar.addEdge(Edge(1, 33, 0.9));
+    Bhubaneswar.addEdge(Edge(33, 1, 0.9));
+
+    Bhubaneswar.addEdge(Edge(2, 24, 4.5));
+    Bhubaneswar.addEdge(Edge(24, 2, 4.5));
+
+    Bhubaneswar.addEdge(Edge(3, 9, 3.3));
+    Bhubaneswar.addEdge(Edge(9, 3, 3.3));
+
+    Bhubaneswar.addEdge(Edge(3, 24, 2.4));
+    Bhubaneswar.addEdge(Edge(24, 3, 2.4));
+
+    Bhubaneswar.addEdge(Edge(4, 22, 3.7));
+    Bhubaneswar.addEdge(Edge(22, 4, 3.7));
+
+    Bhubaneswar.addEdge(Edge(5, 11, 1.5));
+    Bhubaneswar.addEdge(Edge(11, 5, 1.5));
+
+    Bhubaneswar.addEdge(Edge(5, 24, 1.9));
+    Bhubaneswar.addEdge(Edge(24, 5, 1.9));
+
+    Bhubaneswar.addEdge(Edge(6, 28, 4.2));
+    Bhubaneswar.addEdge(Edge(28, 6, 4.2));
+
+    Bhubaneswar.addEdge(Edge(6, 31, 3.2));
+    Bhubaneswar.addEdge(Edge(31, 6, 3.2));
+
+    Bhubaneswar.addEdge(Edge(7, 13, 1));
+    Bhubaneswar.addEdge(Edge(13, 7, 1));
+
+    Bhubaneswar.addEdge(Edge(8, 22, 0.9));
+    Bhubaneswar.addEdge(Edge(22, 8, 0.9));
+
+    Bhubaneswar.addEdge(Edge(8, 39, 3.6));
+    Bhubaneswar.addEdge(Edge(39, 8, 3.6));
+
+    Bhubaneswar.addEdge(Edge(10, 13, 14));
+    Bhubaneswar.addEdge(Edge(13, 10, 14));
+
+    Bhubaneswar.addEdge(Edge(11, 21, 5));
+    Bhubaneswar.addEdge(Edge(21, 11, 5));
+
+    Bhubaneswar.addEdge(Edge(11, 31, 2.6));
+    Bhubaneswar.addEdge(Edge(31, 11, 2.6));
+
+    Bhubaneswar.addEdge(Edge(11, 36, 4.3));
+    Bhubaneswar.addEdge(Edge(36, 11, 4.3));
+
+    Bhubaneswar.addEdge(Edge(12, 13, 1));
+    Bhubaneswar.addEdge(Edge(13, 12, 1));
+
+    Bhubaneswar.addEdge(Edge(13, 37, 2.5));
+    Bhubaneswar.addEdge(Edge(37, 13, 2.5));
+
+    Bhubaneswar.addEdge(Edge(14, 34, 2.4));
+    Bhubaneswar.addEdge(Edge(34, 14, 2.4));
+
+    Bhubaneswar.addEdge(Edge(15, 36, 4.4));
+    Bhubaneswar.addEdge(Edge(36, 15, 4.4));
+
+    Bhubaneswar.addEdge(Edge(16, 13, 18.2));
+    Bhubaneswar.addEdge(Edge(13, 16, 18.2));
+
+    Bhubaneswar.addEdge(Edge(17, 21, 2.9));
+    Bhubaneswar.addEdge(Edge(21, 17, 2.9));
+
+    Bhubaneswar.addEdge(Edge(18, 35, 1.2));
+    Bhubaneswar.addEdge(Edge(35, 18, 1.2));
+
+    Bhubaneswar.addEdge(Edge(18, 38, 0.4));
+    Bhubaneswar.addEdge(Edge(38, 18, 0.4));
+
+    Bhubaneswar.addEdge(Edge(19, 20, 1.1));
+    Bhubaneswar.addEdge(Edge(20, 19, 1.1));
+
+    Bhubaneswar.addEdge(Edge(19, 29, 5));
+    Bhubaneswar.addEdge(Edge(29, 19, 5));
+
+    Bhubaneswar.addEdge(Edge(20, 31, 3.2));
+    Bhubaneswar.addEdge(Edge(31, 20, 3.2));
+
+    Bhubaneswar.addEdge(Edge(21, 25, 2.7));
+    Bhubaneswar.addEdge(Edge(25, 21, 2.7));
+
+    Bhubaneswar.addEdge(Edge(22, 32, 3.2));
+    Bhubaneswar.addEdge(Edge(32, 22, 3.2));
+
+    Bhubaneswar.addEdge(Edge(23, 28, 35));
+    Bhubaneswar.addEdge(Edge(28, 23, 35));
+
+    Bhubaneswar.addEdge(Edge(23, 33, 1.4));
+    Bhubaneswar.addEdge(Edge(33, 23, 1.4));
+
+    Bhubaneswar.addEdge(Edge(24, 37, 7.2));
+    Bhubaneswar.addEdge(Edge(37, 24, 7.2));
+
+    Bhubaneswar.addEdge(Edge(25, 26, 1));
+    Bhubaneswar.addEdge(Edge(26, 25, 1));
+
+    Bhubaneswar.addEdge(Edge(25, 35, 2));
+    Bhubaneswar.addEdge(Edge(35, 25, 2));
+
+    Bhubaneswar.addEdge(Edge(26, 27, 1));
+    Bhubaneswar.addEdge(Edge(27, 26, 1));
+
+    Bhubaneswar.addEdge(Edge(27, 32, 2.3));
+    Bhubaneswar.addEdge(Edge(32, 27, 2.3));
+
+    Bhubaneswar.addEdge(Edge(29, 33, 4.7));
+    Bhubaneswar.addEdge(Edge(33, 29, 4.7));
+
+    Bhubaneswar.addEdge(Edge(30, 33, 2.7));
+    Bhubaneswar.addEdge(Edge(33, 30, 2.7));
+
+    Bhubaneswar.addEdge(Edge(30, 40, 4.3));
+    Bhubaneswar.addEdge(Edge(40, 30, 4.3));
+
+    Bhubaneswar.addEdge(Edge(34, 40, 5.1));
+    Bhubaneswar.addEdge(Edge(40, 34, 5.1));
+
+    Bhubaneswar.addEdge(Edge(38, 39, 2.7));
+    Bhubaneswar.addEdge(Edge(39, 38, 2.7));
 
     return Bhubaneswar;
 }
